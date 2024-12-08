@@ -22,3 +22,7 @@ The ability to drill down into the data and gain insights into consumer behavior
 
 ## Screenshots :
 
+![Screenshot 2024-12-08 101117](https://github.com/user-attachments/assets/524ec858-0dd5-4187-935a-b5fa47e19ea2)
+![Screenshot 2024-12-08 100932](https://github.com/user-attachments/assets/0482dc73-6194-4a3a-acef-e97646e4d697)
+![Screenshot 2024-12-08 100807](https://github.com/user-attachments/assets/fedac3c4-e7b9-48e1-9898-e9a32868b1b0)
+![Screenshot 2024-12-08 101148](https://github.com/user-attachments/assets/dea40f8c-9079-4b80-8a52-4e50adda000f)
